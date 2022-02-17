@@ -14,4 +14,5 @@ https://drive.google.com/file/d/1MYEHbXQj4a5QwqrVVB3eBer1ix2s7cNy/view?usp=shari
 - Matplotlib
 
 # Preview
+![example](/Screenshoot/Preview_Project.gif)
 
