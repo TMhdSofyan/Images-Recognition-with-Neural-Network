@@ -1,4 +1,4 @@
-# Picture-Recognition-with-Neural-Network
+# Images-Recognition-with-Neural-Network
 This session exhibits the neural network ability using Pytorch to recognize a set of items
 
 # Dataset
